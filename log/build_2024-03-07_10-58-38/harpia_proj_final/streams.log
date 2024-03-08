@@ -1,0 +1,33 @@
+[1.025s] Invoking command in '/root/catkin_ws/harpia_proj_final/build/harpia_proj_final': PYTHONPATH=/root/catkin_ws/harpia_proj_final/build/harpia_proj_final/prefix_override:/root/catkin_ws/harpia_proj_final/install/harpia_proj_final/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /root/catkin_ws/harpia_proj_final/build/harpia_proj_final/build --no-deps install_data
+[1.454s] running develop
+[1.454s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.455s]   warnings.warn(
+[1.456s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.456s]   warnings.warn(
+[1.701s] running egg_info
+[1.701s] writing harpia_proj_final.egg-info/PKG-INFO
+[1.702s] writing dependency_links to harpia_proj_final.egg-info/dependency_links.txt
+[1.706s] writing entry points to harpia_proj_final.egg-info/entry_points.txt
+[1.706s] writing requirements to harpia_proj_final.egg-info/requires.txt
+[1.706s] writing top-level names to harpia_proj_final.egg-info/top_level.txt
+[1.708s] reading manifest file 'harpia_proj_final.egg-info/SOURCES.txt'
+[1.709s] writing manifest file 'harpia_proj_final.egg-info/SOURCES.txt'
+[1.711s] running build_ext
+[1.711s] Creating /root/catkin_ws/harpia_proj_final/install/harpia_proj_final/lib/python3.10/site-packages/harpia-proj-final.egg-link (link to .)
+[1.713s] Installing obstaculos script to /root/catkin_ws/harpia_proj_final/install/harpia_proj_final/lib/harpia_proj_final
+[1.714s] Installing velocidade script to /root/catkin_ws/harpia_proj_final/install/harpia_proj_final/lib/harpia_proj_final
+[1.715s] 
+[1.716s] Installed /root/catkin_ws/harpia_proj_final/build/harpia_proj_final
+[1.716s] running install_data
+[1.716s] creating /root/catkin_ws/harpia_proj_final/install/harpia_proj_final/share/ament_index
+[1.717s] creating /root/catkin_ws/harpia_proj_final/install/harpia_proj_final/share/ament_index/resource_index
+[1.717s] creating /root/catkin_ws/harpia_proj_final/install/harpia_proj_final/share/ament_index/resource_index/packages
+[1.718s] copying resource/harpia_proj_final -> /root/catkin_ws/harpia_proj_final/install/harpia_proj_final/share/ament_index/resource_index/packages
+[1.718s] copying package.xml -> /root/catkin_ws/harpia_proj_final/install/harpia_proj_final/share/harpia_proj_final
+[1.719s] creating /root/catkin_ws/harpia_proj_final/install/harpia_proj_final/share/harpia_proj_final/launch
+[1.719s] copying launch/proj_final.launch.py -> /root/catkin_ws/harpia_proj_final/install/harpia_proj_final/share/harpia_proj_final/launch
+[1.719s] creating /root/catkin_ws/harpia_proj_final/install/harpia_proj_final/share/harpia_proj_final/params
+[1.719s] copying params/bridges.yaml -> /root/catkin_ws/harpia_proj_final/install/harpia_proj_final/share/harpia_proj_final/params
+[1.720s] creating /root/catkin_ws/harpia_proj_final/install/harpia_proj_final/share/harpia_proj_final/worlds
+[1.720s] copying worlds/proj_final_world.sdf -> /root/catkin_ws/harpia_proj_final/install/harpia_proj_final/share/harpia_proj_final/worlds
+[1.762s] Invoked command in '/root/catkin_ws/harpia_proj_final/build/harpia_proj_final' returned '0': PYTHONPATH=/root/catkin_ws/harpia_proj_final/build/harpia_proj_final/prefix_override:/root/catkin_ws/harpia_proj_final/install/harpia_proj_final/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /root/catkin_ws/harpia_proj_final/build/harpia_proj_final/build --no-deps install_data

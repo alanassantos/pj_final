@@ -1,0 +1,6 @@
+[console_scripts]
+clock = harpia_proj_final.clock:main
+obstaculos = harpia_proj_final.obstaculos:main
+pose = harpia_proj_final.pose:main
+velocidade = harpia_proj_final.velocidade:main
+

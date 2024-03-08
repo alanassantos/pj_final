@@ -26,6 +26,10 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'velocidade = harpia_proj_final.velocidade:main',
+            'obstaculos = harpia_proj_final.obstaculos:main',
+            'clock = harpia_proj_final.clock:main',
+            'pose = harpia_proj_final.pose:main'
         ],
     },
 )
